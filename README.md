@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning - 🤖 AI collaboration and prompt engineering
 - 🐙 GitHub workflows and version control
 - 💡 Building my first AI assistants
-- 🎯 My Foo-i enjoy crafting weapons and depending world from the AI bots
+- 🎯 My Foo-i enjoy crafting weapons and depending the world from the AI bots
 - 📫 How to reach me: 📫 Right here on GitHub
 - ⚡ Fun fact: I enjoy reading and traveling 
 
